@@ -1,16 +1,24 @@
 ### 1. VSCode 中 Python 插件
 
 1. Chinese：汉化
+
 2. python：python 必须的
+
 3. Markdown All in One：Markdown 文档
+
 4. Markdown Preview Github Styling：Github Markdown 风格
+
 5. vscode-icons：美化图标
+
 6. Anaconda Extension Pack：Conda 必须的
+
 7. Path Autocomplete：感知路径
 
 ### 3. VSCode 技巧
 
-1. 在setting.json中，加上 `"python.autoComplete.addBrackets": true,`可以让你在print的时候，自动那个带上括号
+1. 在setting.json中，加上 
+`"python.autoComplete.addBrackets": true,`可以让你在print的时候，自动那个带上括号
+
 2. pip install autopep8,遵循pep8代码规范
    
 ### 2. 使用VSCode 编写 MarkDown 文档
@@ -30,10 +38,15 @@
 3. 有序列表 和 无序列表
    
    1. 1+1
+
    2. 1+2
+
    3. 1+3
+
    -  1+1
+
    -  1+2
+   
    -  1+3 
 
  4. 超链接
