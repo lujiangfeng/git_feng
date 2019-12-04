@@ -50,7 +50,7 @@
     这里用$$ 你的公式:z=wx+b $$ 来写，效果如下：
     $$ 你的公式:z=wx+b $$
 
-## VSCOde Markdown 写作注意点
+## 4. VSCOde Markdown 写作注意点
 
 1. 文章开头必须要有 #，即一级标题，否则提示：MD041/first-line-heading/first-line-h1: First line in file should be a top level headingmarkdownlint(MD041)；
 2. 文章标题按照大小排列，不能从一级标题跳到三级标题，否则提示：MD001 - Heading levels should only increment by one level at a time；
