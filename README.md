@@ -4,19 +4,18 @@
 
 ### 深度学习
 
-1. [PyTorch 中文手册](https://github.com/zergtant/pytorch-handbook) 
+1. [PyTorch 中文手册](https://github.com/zergtant/pytorch-handbook)
 
 2. [PyTorch 动态神经网络 (莫烦 Python 教学)](https://www.bilibili.com/video/av15997678?p=1 )
 
 3. [吴恩达给你的人工智能第一课](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
-   
-    由 deeplearning.ai 出品，网易引进的正版授权中文版深度学习工程师微专业课程，让你在了解丰富的人工智能应用案例的同时，学会在实践中搭建出最先进的神经网络模型，训练出属于你自己的 AI。
 
     1. [吴恩达深度学习课程辅导](https://zhuanlan.zhihu.com/aiclass)
 
-4. GPU
-
-    1. 
+4. CUDA
+    1. [GPU计算加速01 : AI时代人人都应该了解的GPU知识](https://zhuanlan.zhihu.com/p/76297133)
+    2. [GPU加速02:超详细Python Cuda零基础入门教程，没有显卡也能学！](https://zhuanlan.zhihu.com/p/77307505)
+    3. [GPU加速03:多流和共享内存—让你的CUDA程序如虎添翼的优化技术！](https://zhuanlan.zhihu.com/p/78557104)
 
 ## 原创文章
 
