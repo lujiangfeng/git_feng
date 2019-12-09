@@ -8,4 +8,4 @@
 
 ## 办公工具
 
-1. [](如何关闭WPS的广告/README.md)
+1. [如何关闭WPS的广告](https://github.com/lujiangfeng/Jiangfeng/tree/master/%E5%8E%9F%E5%88%9B%E6%96%87%E7%AB%A0/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%A6%82%E4%BD%95%E5%85%B3%E9%97%ADWPS%E7%9A%84%E5%B9%BF%E5%91%8A)
