@@ -64,7 +64,11 @@
 ## 4. VSCOde Markdown 写作注意点
 
 1. 文章开头必须要有 #，即一级标题，否则提示：MD041/first-line-heading/first-line-h1: First line in file should be a top level headingmarkdownlint(MD041)；
+   
 2. 文章标题按照大小排列，不能从一级标题跳到三级标题，否则提示：MD001 - Heading levels should only increment by one level at a time；
+
 3. 大标题下面空一行再写东西，否则提示：MD022/blanks-around-headings/blanks-around-headers: Headings should be surrounded by blank lines [Expected: 1; Actual: 0; Below]markdownlint(MD022)；
+
 4. 列表之间无须换行，列表和字列表之间无须换行,但建议换行；
+
 5. 列表下面，无字列表的时候，要换行写东西，否则会合并成一行。
